@@ -12,7 +12,7 @@ Yêu cầu:
 ## Thực hiện bởi [Phạm Văn Thượng](https://github.com/thuongphv2312)
 ## Giao diện
 [Trang document]( https://thuongphv2312.github.io/Frontent-1.5/index.html)
--[ảnh](https://daumarauxanh97.github.io/Frontent-1.5/images/tinyone-1.png)
+-[ảnh](https://daumarauxanh97.github.io/Frontent-1.5/tinyone-1.png)
 ## Kiến thức nắm được
 
 Sử dụng 1 base code html
