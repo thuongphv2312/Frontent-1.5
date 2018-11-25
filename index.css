@@ -1,0 +1,107 @@
+.resetmg{
+	margin: 0;
+}
+*{
+	padding: 0;
+}
+body{
+	margin:0;
+	min-width: 1400px;
+}
+header{
+	min-width: 1000px;
+	background-color: #fcdb00;
+}
+.minw{
+	min-width: 1000px;
+}
+.padding{
+	padding: 50px 230px;
+}
+.fontsize{
+	font-size: 20px;
+}
+.marbt{
+	margin:20px 0;
+}
+.marr{
+	margin-right: 20px;
+}
+.floatl{
+	float: left;
+}
+.row1{
+	display: flex;
+	height: 50px;
+}
+.row2{
+	display: flex;
+}
+.row3{
+	margin-top: 50px;
+	text-align: center;
+}
+.row3 span:hover{
+	background-color: white;
+}
+.nd{
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+}
+.bold{
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 50px;
+}
+ul{
+	list-style-type: none; 
+}
+li{
+	display: inline;
+	line-height: 50px;
+	margin-right: 40px;
+}
+.li1{
+	color: white;
+	display: block;
+	height: 20px;
+}
+img{
+	margin-right: 25px;
+}
+.mag{
+	margin: 20px 0;
+}
+.col{
+	flex: 1;
+}
+.fab{
+	font-size: 50px;
+	color:yellow;
+}
+.dot{
+	height: 20px;
+	width: 20px;
+	background-color: #feed80;
+	border-radius: 30px;
+	display: inline-block;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+}
+input{
+	line-height: 50px;
+	border-radius: 10px;
+}
+.submit{
+	background-color: #fcdb00
+}
+.text{
+	flex: 5;
+	margin-right: 20px;
+}
+.submit{
+	flex: 1;
+}
