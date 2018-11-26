@@ -93,7 +93,10 @@ img{
 }
 input{
 	line-height: 50px;
-	border-radius: 10px;
+	border-radius: 5px;
+}
+::-webkit-input-placeholder {
+	font-size: 20px;
 }
 .submit{
 	background-color: #fcdb00
