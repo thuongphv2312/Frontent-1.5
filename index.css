@@ -84,7 +84,7 @@ img{
 	height: 20px;
 	width: 20px;
 	background-color: #feed80;
-	border-radius: 30px;
+	border-radius: 20px;
 	display: inline-block;
 }
 .container{
@@ -104,4 +104,22 @@ input{
 }
 .submit{
 	flex: 1;
+}
+
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url(icons/fonts/OpenSans-Bold.ttf);
+}
+
+.OpenSans-Bold
+{
+	font-family: OpenSans-Bold;
+}
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(icons/fonts/OpenSans-Regular.ttf);
+}
+.OpenSans-Regular{
+	font-family: OpenSans-Regular;
+	src:url(icons/fonts/OpenSans-Regular.ttf);
 }
